@@ -6,7 +6,7 @@
         {
             "label": "ampy",
             "type": "shell",
-            "command": "ampy -b 9600 -p COM9 -d 1 run ${file}",
+            "command": "ampy -b 9600 -p COM10 -d 1 run ${file}",
             "group": {
                 "kind": "build",
                 "isDefault": true
